@@ -9,6 +9,7 @@ public class Map1 {
         m.put(10,"ameen");
         m.put(20,"basha");
         m.put(30,"hai");
+        System.out.println("hai");
 
         Set keys=m.keySet();
         Iterator it=keys.iterator();
