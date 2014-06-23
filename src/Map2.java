@@ -15,6 +15,7 @@ public class Map2 {
         e2.setEname("bbb");
         e2.setEsalary(2000);
 
+
         Map m=new HashMap();
         m.put(111,e1);
         m.put(112,e2);
